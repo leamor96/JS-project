@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext" ,
+    "module": "ESNext",
+    "esModuleInterop": true ,
+    "forceConsistentCasingInFileNames": true ,
+    "strict": true /* Enable all strict type-checking options. */,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+    "rootDir": "./ts",
+    "outDir":"./js",
+  }
+}
+
+
+// type-script-compiler = TSC
+//tsc --init// צור קובץ הגדרות
+//tsc בצע קומפילציה

@@ -1,0 +1,17 @@
+.hide-card{
+    visibility: hidden;
+}
+.show-card{
+    visibility:visible;
+}
+table{
+    width: 100%;
+}
+img{
+    width: 200px;
+    border-image: fill;
+    border-color: black;
+}
+#win{
+    font-weight: bold;
+}
